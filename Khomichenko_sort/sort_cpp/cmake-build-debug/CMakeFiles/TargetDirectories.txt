@@ -1,0 +1,3 @@
+/Users/x0lotl/projects/ukma/prolog/sort_cpp/cmake-build-debug/CMakeFiles/sort_cpp.dir
+/Users/x0lotl/projects/ukma/prolog/sort_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/x0lotl/projects/ukma/prolog/sort_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
